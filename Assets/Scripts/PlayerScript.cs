@@ -2,8 +2,8 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerScript : MonoBehaviour
-{
+public class PlayerScript : MonoBehaviour {
+    
     public float movementSpeed = 10;
     
     public int itemIndex = 0;
